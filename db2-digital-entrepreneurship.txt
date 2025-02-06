@@ -1,0 +1,59 @@
+Digital Entrepreneurship
+
+ICT Startup
+E-Commerce
+Different degrees:
+- bricks & mortar: traditional physical companies (may use ICT)
+- clicks & mortar: physical companies with online presence
+- online business: exclusive online presence
+
+---------------------------------------------------------------------
+|		    product         services							    |
+|		   														    |
+|front-end   software        webshops, marketplaces, social networks|
+|	       														    |
+|back-end    it-enabled      it-enabled                             |
+|            products        services                               |
+---------------------------------------------------------------------
+
+To identify: does your business act in ICT sector, offer IT products and services
+			 or rely on IT to create products and services?
+But what really matters is if IT is crucial to your business and plays what roles
+
+A non-exclusive list of things specific to IT startups
+- dotcom boom and bust
+- immateriality
+- cumulativeness
+- network effect
+- ecosystems
+- outsourcing/offshoring
+- open source
+
+
+imitability vs. excludability
+protection mechanisms
+- formal: patents, registered designs/trademarks, copyright
+- informal: secrecy, complexity pf design, accesses, ...
+
+A clever idea is not enough, need:
+
+1. Appropriability conditions
+
+2. Complementary assets (required by innovation):
+- specialized: value for a specific innovation, can be useful independently, a company's nerwork
+- co-specialized: repair for rotary engine, little standalone value
+- generic: energy for computer
+
+Teece's model
+
+Co-operate vs. compete:
+- collaborate: Go trough the market for ideas: liscense, alliance, acquisition
+  Pros:                           Cons:
+  less competition for rents      expensive and time-consumig finding partners
+  avoid costs of catching up      really credible threats?
+  build on existing competencies  paradox of disclosure: know need to buy means don't need to
+  new skilled personal            IPR (Intellectual property rights) problem 
+- compete: ... products
+  
+
+
