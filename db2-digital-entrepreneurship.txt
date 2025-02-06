@@ -8,10 +8,10 @@ Different degrees:
 - online business: exclusive online presence
 
 ---------------------------------------------------------------------
-|		     product         services							    |
-|		   														    |
+|   		     product         services							                  |
+|		   														                                  |
 |front-end   software        webshops, marketplaces, social networks|
-|	       														    |
+|	       														                                |
 |back-end    it-enabled      it-enabled                             |
 |            products        services                               |
 ---------------------------------------------------------------------
@@ -43,12 +43,15 @@ A clever idea is not enough, need:
 
 1. Appropriability conditions
 
-2. Complementary assets (required by innovation):
+2. Complementary assets (required by innovation), which startups lack:
 - specialized: value for a specific innovation, can be useful independently, a company's nerwork
 - co-specialized: repair for rotary engine, little standalone value
 - generic: energy for computer
 
 Teece's model
+
+It's hard in software to prevent being copied.
+Easy in some industries like tires (keep ingredients as secrecy)
 
 Co-operate vs. compete:
 - collaborate: Go trough the market for ideas: liscense, alliance, acquisition
@@ -65,14 +68,12 @@ Reason why it is or isn't a IT startup?
 Tell me what you opinion which it is and why?
 4 points for 4 things
 
-
-
 Porter's Five Forces Framework is a method of analysing the competitive environment of a business:
 
-					   Bargaining Power of Suppliers
-					                |
+					             Bargaining Power of Suppliers
+					                          |
                                     |
 Threats of new entrants --- Industry rivalry ---Threat of subsitutes
-								    |
-								    |
-					   Bargaining Power of Buyers
+					                			    |
+					                			    |
+					             Bargaining Power of Buyers
