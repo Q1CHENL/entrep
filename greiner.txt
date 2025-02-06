@@ -1,0 +1,93 @@
+Greiner - Evolution and revolution as orgnizations grow
+
+1. Critical questions overlooked by manager in haste to grow:
+   - Where has our orgnization been?
+   - Where is it now?
+   - What do the answers to these questions mean for where it is going?
+
+2. The behavior of individuals is determined primarily by past events and experiences,
+   rather than by what lies ahead.
+
+3. each developmental phases as companies grow:
+   a period of evolution with steady growth and stability -> revolutionary period of substantial orgnizational turmoil and change
+
+4. Five dimensions of orgnization: 
+   - age: management problems and principles are rooted in time, practices need to change, managerial attitudes need to update
+
+   - size: problems and solutions tend to change markedly as the number of its employees and its sales volume increase
+           new functions, hierarchy, more interrelated jobs
+
+   - stages of evolution: prolonged, quiet growth with modest adjustments
+
+   - stages of revolution: turbulent times, need to abandon past practices and make major orgnizational changes, which however may
+                           also become a major problem in a later period
+     
+   - growth rate of the industry: the speed of orgnization experiencing evolution and revolution is closely related to the market 
+                                  environment of its industry, which affect how easy to resolve severe revolutions
+    
+5. Phases of growth: creativity -(leadership)-> direction -(autonomy)-> delegation -(control)-> coordination -(red tape)-> collaboration -> (?)
+   (in the parenthesis are the crisis between stages)
+   
+   Each phase is a result of previous one and the cause of next phase. 
+   For each phase, managers are limited in what they can do in growth is to occur
+
+   Phase 1: Creativity
+    	    Emphasis is product and market. Communication is frequent and informal. Long hours of work and mosdest salaries.
+    	    Decisions and motivitions are sensitive to market and customers. As grows, those become the problems, crisis of
+    	    leadership occurs. Temparement of founders can be the problem. Formal communication, additional capital and a
+    	    strong business manager is needed.
+    	    
+   Phase 2: Direction
+            functional and orgnizational structrue, accounting systems, formal communications, hierarchy of titles and positions
+            -> lower-level employee restricted by cumbersome and centralized hierarchy -> crisis of autonmomy -> more delegation 
+            to lower-level managers (decentrilization of structrue)
+            
+   Phase 3: Delegation
+            - much greater resposibility for managers of plants and market
+            - bonuses to motivate
+            - top-level limit to managing: periodic reports from the field
+            - management focuses acquiring ourside enterprises fit with decentralized units
+            - communication from top is infrequent: correspondence, telephone, brief visit
+            delegations are motivated and perform very well with high degree of freedom, top-level lose control over a highly diversity
+            -> try to regain control and usually fail, need coordination
+
+   Phase 4: Coordination
+            - decentralized units -> merged groups
+            - formal planning procudures and intensive review
+            - careful captital expenditures
+            - product groups treated as investment center
+            - e.g data processing in headquarter, daily operating decision remain decentralized
+            - stock options, profit sharing to encourage to identify as a whole
+            bureaucratic systems, procedures over problem solving, line managers and staff complain about the unfamiliarity of conditions
+            -> red-tape crisis
+            
+   Phase 5: Collaboration
+            - interpersonal collaboration
+            - solving problems quickly through team action
+            - teams are combined to handles specific tasks
+            - staff experts reduced, reassigned and combine to consult field units
+            - matrix-type structure
+            - frequent conferences of key managers
+            - educational systems
+            - real-time information systems
+            - economic rewards
+            - encourage experimenting new practices
+
+            ?-crissis might centers around psychological saturation, physical exhaust, intensity of teamwork, pressure 
+            for innovation
+            solution can be periodic rest, dual structures: habit structure & reflective structure, employees move back and forth
+            sabbaticals for employees, moving managers in and out for hot-spot works, relexation facilities
+            Chinese practice: executives spend time in lower-level jobs 
+
+
+
+6. Guidelines for managers of growing orgnizations
+   - Know where you are in the developmental sequence: to recognize the time to change and wrong solution
+     should not skip phases or avoid revolutions
+     
+   - Recognize the limited range of solutions: apply different solutions in different stages, be prepared
+     to dismantle/even step down before too late 
+
+   - Realize that solutions breed new problems: helps to evaluate problems from a historical understanding
+
+   "By learning more about history, we may do a better job in the future."

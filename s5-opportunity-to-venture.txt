@@ -1,0 +1,36 @@
+Opportunity to vernture:
+
+Lean startup methodology
+Process: 
+         Learn (lead to ideas)(split tests, customer develpoment, ...)<-----|
+		   |																|
+		   V																|
+START -> build (lead to code, MVP) (unit tests) -> measure (lead to date) (deployment)
+
+Startups succeed that build and iterate quickly before they run out of resources
+
+Key lean startup points:
+- vision, theory of value, from which derive a course of action, don't start from nothing, must assume customers exit
+- really risk endeavor to build the entire thing and then test whether you are right, do tests and hypothese
+- adapt based on what you haved learnt: presevere, pivot or perish
+
+Market Entry:
+new entry: new/established product to new/established market, creating organization
+
+Entry strategy for exploitation:
+lead time: first time operates with limited competition, can erect barriers:
+customer loyalty, switching costs, product uniqueness, access to supply and distribution
+first mover advantages includes more: less competitive rivalry, opportunity to gain expertises, ...
+
+first mover disadvantages:
+- market uncertainty: size, potential
+- technology uncertainty: performance 
+Risk reduction: market scope (customer groups), and imitation, narrow scope, broad scope across many market segments
+
+- uncertainty for customers: value for customers, need ad, hightlighting benefits over substitutions,
+                             create frame of ref for potential customers, educate customers through demonstrations/docs
+
+- liabilities of newness (disadvantages): costs of learning, responsibilities conflicts, informal communication structure
+
+										  need to educate employee, resolve conflicts, capitalize Advantages of newness:
+										  quick to learn new knowledge in a changing environment without long process

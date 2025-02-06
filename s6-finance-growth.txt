@@ -1,0 +1,42 @@
+Session 6: Finance & Growth
+
+1. Startup valley of death: idea -> R&D -> technology transfer -> product launch -> product success -> business success
+   the cost is maxed at product success, easy to die before business success
+   The money for the first steps are from bootstrapping and bank
+
+2. Venture: a new business undertaking or project, typically involving some degree of risk, that 
+   is aimed at achieving a specific goal, often financial gain.
+
+- Where to get money?
+---early stage---
+1. Own money
+2. Families, friends and fools, who just like give money to new things (fff) (contract helps!) 
+3. Revenue generated from the business (bootstrapping)
+4. Supporting from government with or without some obligations.
+------equity------
+5. Crowd funding: promise product, pre-order, middle age men (games, smart watch, tesla, social space donation)
+6. Fund raising: get money from venture capitalists(pooled of money from different sources, invest a large amount
+   make money by selling shares, not profits), angel investors (smaller amount), growth expections
+------------------
+7. Foundations support
+--------IPO---------
+8. IPO (Initial Publish Offering, super rare) sell shares, to scale up, millions
+-------debt--------
+9. Debt: bank, substantial a amount of money, may leverage personal relationship, local bank has local connections 
+   (interet payment, collateral)
+----large firms----
+10. collab, investment
+
+If you are a NGO, the money is tracked, if something goes wrong, you can be sued.
+
+- How can I grow?
+basically 4 ways:
+	    |---------------------------------------------------------------------------|
+Market	|existing  | penetration strategies		    | product development strategies|
+        |new       | market development strategies  | diverification strategies     |
+        |---------------------------------------------------------------------------|
+		|          |		existing                |           new                 |
+        |---------------------------------------------------------------------------|
+                                                 Product
+                                                 
+Acquisition of startups is asset for big companies, also a good strategy for startups.
