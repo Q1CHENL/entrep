@@ -1,6 +1,6 @@
 Digital Entrepreneurship
 
-ICT Startup
+I(C)T Startup
 E-Commerce
 Different degrees:
 - bricks & mortar: traditional physical companies (may use ICT)
@@ -8,7 +8,7 @@ Different degrees:
 - online business: exclusive online presence
 
 ---------------------------------------------------------------------
-|		    product         services							    |
+|		     product         services							    |
 |		   														    |
 |front-end   software        webshops, marketplaces, social networks|
 |	       														    |
@@ -20,7 +20,7 @@ To identify: does your business act in ICT sector, offer IT products and service
 			 or rely on IT to create products and services?
 But what really matters is if IT is crucial to your business and plays what roles
 
-A non-exclusive list of things specific to IT startups
+*A non-exclusive list of things specific to IT startups*
 - dotcom boom and bust
 - immateriality
 - cumulativeness
@@ -28,7 +28,11 @@ A non-exclusive list of things specific to IT startups
 - ecosystems
 - outsourcing/offshoring
 - open source
-
+(
+- scaling
+- marginal cost is zero (copies)
+- reusability of software
+)
 
 imitability vs. excludability
 protection mechanisms
@@ -48,12 +52,27 @@ Teece's model
 
 Co-operate vs. compete:
 - collaborate: Go trough the market for ideas: liscense, alliance, acquisition
-  Pros:                           Cons:
-  less competition for rents      expensive and time-consumig finding partners
-  avoid costs of catching up      really credible threats?
-  build on existing competencies  paradox of disclosure: know need to buy means don't need to
-  new skilled personal            IPR (Intellectual property rights) problem 
+  Pros:                          | Cons:
+  less competition for rents     | expensive and time-consumig finding partners
+  avoid costs of catching up     | really credible threats?
+  build on existing competencies | paradox of disclosure: know need to buy means don't need to
+  new skilled personal           | IPR (Intellectual property rights) problem 
 - compete: ... products
   
+Perfect exam question:
+If a company like polarstern is IT startup?
+Reason why it is or isn't a IT startup?
+Tell me what you opinion which it is and why?
+4 points for 4 things
 
 
+
+Porter's Five Forces Framework is a method of analysing the competitive environment of a business:
+
+					   Bargaining Power of Suppliers
+					                |
+                                    |
+Threats of new entrants --- Industry rivalry ---Threat of subsitutes
+								    |
+								    |
+					   Bargaining Power of Buyers
