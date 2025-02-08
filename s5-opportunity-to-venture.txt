@@ -12,6 +12,7 @@ Startups succeed that build and iterate quickly before they run out of resources
 Key lean startup points:
 - vision, theory of value, from which derive a course of action, don't start from nothing, must assume customers exit
 - really risk endeavor to build the entire thing and then test whether you are right, do tests and hypothese
+  -> results need to be interpreted with caution (false negative, false positive)
 - adapt based on what you haved learnt: presevere, pivot or perish
 
 Market Entry:

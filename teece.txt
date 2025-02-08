@@ -18,7 +18,7 @@ B. Complementary Assets
 - These are assets necessary for commercialization, such as manufacturing, distribution, marketing, and after-sales service.  
 - Three types:  
   1. Generic – Widely available and not tied to the innovation.  
-  2. Specialized – One-way dependency; the innovation requires specific assets.  
+  2. Specialized – One-way dependency; the innovation requires specific assets. The asset is valuable independently.
   3. Cospecialized – Two-way dependency; both the innovation and the complementary asset rely on each other.  
 
 C. Dominant Design Paradigm  
