@@ -1,0 +1,67 @@
+Core Idea: The article introduces "effectuation" as a way entrepreneurs make decisions to create 
+firms and markets, contrasting it with "causation," which is used to make decisions within existing structures.
+
+1. Causation vs. Effectuation:
+- Causation: Goal-driven. You have a specific outcome in mind, and you find the best way to get 
+  there. Think of it like planning and prediction.
+
+- Effectuation: Means-driven. You start with what you have (who you are, what you know, who you 
+  know) and imagine what you could create. It's about control and adapting to surprises.
+
+2. Key Differences:
+
+- Causation uses expected returns. Effectuation focuses on what you can afford to lose.
+
+- Causation relies on competitive analysis. Effectuation builds partnerships.
+
+- Causation uses existing knowledge. Effectuation uses emerging opportunities.
+
+- Causation tries to predict the future. Effectuation tries to control it.
+
+3. Examples:
+
+"Curry in a Hurry": A hypothetical restaurant. Causation would involve lots of market research. 
+Effectuation would start small and adapt based on what happens.
+
+U-Haul: Instead of raising tons of money, the founder used what he had and built partnerships.
+
+4. Four Principles of Effectuation:
+
+- Affordable Loss, Not Expected Returns: Focus on what you can afford to lose, not maximizing 
+  potential gains. Experiment with multiple low-cost strategies.
+
+- Strategic Alliances, Not Competitive Analysis: Build partnerships to reduce uncertainty and 
+  create barriers to entry, rather than focusing solely on competition.
+
+- Exploitation of Contingencies, Not Preexisting Knowledge: Embrace unexpected events and adapt, 
+  rather than relying solely on prior expertise.
+
+- Controlling the Future, Not Predicting It: Focus on what you can control (actions, partnerships) 
+  to shape the future, rather than trying to predict it.
+
+5. Connections to other thinkers:
+
+March: Questions if goals always come first.
+
+Mintzberg: Shows how planning can fail, and unexpected successes happen.
+
+Weick: Organizations shape their world through action, not just planning.
+
+6. Implications:
+
+Helps explain why it's hard to define a "successful entrepreneur" – there are many paths.
+
+Suggests a new question: Not "how to be successful," but "what can you create with what you have?"
+
+7. Propositions for research:
+
+Effectual firms might fail more, but they fail cheaper.
+
+New industries are likely started with effectuation.
+
+Successful start-ups use partnerships.
+
+Effectuators make different kinds of decisions.
+
+8. Overall: Effectuation offers a new way to think about how businesses are born, emphasizing 
+   the entrepreneur's ability to shape the future, rather than just react to it.
