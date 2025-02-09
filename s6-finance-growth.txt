@@ -32,11 +32,11 @@ If you are a NGO, the money is tracked, if something goes wrong, you can be sued
 - How can I grow?
 basically 4 ways:
 	    |---------------------------------------------------------------------------|
-Market	|existing  | penetration strategies		    | product development strategies|
-        |new       | market development strategies  | diverification strategies     |
-        |---------------------------------------------------------------------------|
-		|          |		existing                |           new                 |
-        |---------------------------------------------------------------------------|
+Market |existing  | penetration strategies		   | product development strategies|
+       |new       | market development strategies  | diverification strategies     |
+       |---------------------------------------------------------------------------|
+		 |          |		existing                   |           new                 |
+       |---------------------------------------------------------------------------|
                                                  Product
                                                  
 Acquisition of startups is asset for big companies, also a good strategy for startups.

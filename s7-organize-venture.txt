@@ -27,4 +27,9 @@ Mid-20 people don't have experience in management
 What orgnization structure do we need? waterfall, little squads?
 What method do we use? Sprint?
 
+Among content, task, team and relationship conflict:
+2 main: task and relationship conflict, task conflict can turn into relationship conflict
+relationship conflict is the most likely reason that a startup will fail
+
+Not every company need to have strong culture, but a regconizable culture (reason why work here)
 
