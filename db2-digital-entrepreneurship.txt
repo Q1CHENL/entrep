@@ -41,7 +41,14 @@ But what really matters is if IT is crucial to your business and plays what role
 imitability vs. excludability
 protection mechanisms
 - formal: patents, registered designs/trademarks, copyright
-- informal: secrecy, complexity pf design, accesses, ...
+  -> patent: Pharmaceuticals (e.g. drug formulas)
+             Electronics/Technology (e.g. semiconductor innovations)
+             Biotechnology (e.g. medical devices, genetic therapies)
+             Chemistry
+  -> copyright: software, entertainment, publishings
+
+- informal: secrecy, complexity of design, accesses, ...
+  -> secrecy: food
 
 A clever idea is not enough, need:
 

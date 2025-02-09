@@ -1,0 +1,49 @@
+Celonis: Process Mining
+
+customer: IT services like help desk
+problem: slow and inefficient IT servive process
+solution: enterprise process mining software
+
+Def. Process: A series of linked actions or steps taken in order to achieve a particular end.
+Most companies don't have complete visibility of their owne processes.
+(16%)
+
+Process Mining:
+Real-world activities -> system support-> process data(event logs) -> process insights
+
+Def. Process Mining is a data analytics technology to reconstruct, analyze, and improve business 
+     processes based on log data from transactional IT systems. Process Mining bridges the gap 
+     between model-based process analyses and data-centric analysis techniques
+
+• Discovery uncovers how processes are executed by replicating a process model from the event log. 
+• Conformance checking compares the ‘as-is’ process from the log data with the ‘to-be’ model
+• Enhancement uses insights from discovery and conformance to improve the process
+
+
+Midterm 3: Question 1: Business Model of Celonis   
+Celonis is a SaaS provider of process mining and execution management software for large enterprises. 
+They make money through:   
+- Subscription/Licensing Fees: Recurring revenue based on usage, data volume, or user count.   
+- Professional Services: Consulting, implementation, and training that help clients realize ROI.   
+- Value-Added Integrations: Deep integration with ERP, CRM, and other systems, enhancing overall
+  operational efficiency.
+
+Question 2: Consultant Advice for Celonis   
+   
+- Enhance Integration & Data Quality: Expand and simplify connectors, automate data cleansing, and support
+  real-time processing.   
+
+- Deepen AI & Predictive Capabilities: Advance ML models to shift from
+  descriptive insights to predictive and prescriptive analytics with actionable automation
+  suggestions.   
+
+- Develop Vertical-Specific Solutions: Customize offerings for key industries (e.g.,
+  manufacturing, finance, healthcare) to address unique challenges and compliance needs.   
+
+- Strengthen Customer Success: Provide robust case studies, clear ROI dashboards, and improved
+  onboarding to ensure clients capture full value.
+
+- Address Competitive Pressures: Continuously
+  innovate, expand platform capabilities, and leverage strategic partnerships (e.g., with major ERP
+  vendors) to stay ahead in the market.
+

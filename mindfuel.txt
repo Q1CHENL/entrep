@@ -1,0 +1,26 @@
+Bridging the AI Business Gap - Nadiem von Heydebrand
+
+Problem: massive AI investment, but 80% failed. There is a gap betwen business and AI
+- untapped und misunderstood business potential
+- misaligned between AI capabilities and business requirements
+- lack of effective metrics to communicate data product impact
+-> invisible data impact
+
+up tp 20% in cost reduction, >10% in revenue increases potential
+
+-> Delight: a data product management software
+close the gap:
+1. co-create business opportunities effectively: business <-(transparency)-> data products
+2. streamline your portfolio for transparency: minimize duplicate work
+3. manage adoption actively for value generation
+   Data Product Management Loop:
+ ->  Exploration -> validation -> implementation -> adoption
+ |                                                   | 
+ -----------------------------------------------------
+           Value & portfolio management     
+
+
+Def. Data Product
+Reusable artifacts that leverage data to provide valuable insights, or services,
+resulting in tangible business impact and benefits for customers.
+
