@@ -10,7 +10,10 @@ Summary of "Profiting from Technological Innovation" by David J. Teece (1986)
 Teece identifies three key factors that determine who captures the profits from an innovation:  
 
 A. Appropriability Regime  
-- Refers to how easily an innovator can protect its intellectual property.  
+- Refers to how easily an innovator can protect its intellectual property.
+- Most important demensions:
+  - nature of the technology
+  - efficacy of legal mechanisms of protection  
 - Tight appropriability regimes (e.g., strong patents, trade secrets) enable innovators to retain more value.  
 - Weak appropriability regimes (e.g., easily imitable products) allow imitators to profit instead.  
 

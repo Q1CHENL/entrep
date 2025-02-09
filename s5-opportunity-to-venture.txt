@@ -35,3 +35,6 @@ Risk reduction: market scope (customer groups), and imitation, narrow scope, bro
 
 										  need to educate employee, resolve conflicts, capitalize Advantages of newness:
 										  quick to learn new knowledge in a changing environment without long process
+Steve Blank:
+avoid premature scaling, find customer before scaling, do MVP, do customer development
+find product-market fit first, "getting out of the building"

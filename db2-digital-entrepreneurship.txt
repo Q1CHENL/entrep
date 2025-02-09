@@ -25,6 +25,10 @@ But what really matters is if IT is crucial to your business and plays what role
 - immateriality
 - cumulativeness
 - network effect
+  explains
+  - source of first-mover advantage
+  - the existence of winner-takes-all-markets
+  - the evolution and success of companies like Skype or Facebook
 - ecosystems
 - outsourcing/offshoring
 - open source
