@@ -33,7 +33,7 @@ If you are a NGO, the money is tracked, if something goes wrong, you can be sued
 basically 4 ways:
 	    |---------------------------------------------------------------------------|
 Market |existing  | penetration strategies		   | product development strategies|
-       |new       | market development strategies  | diverification strategies     |
+       |new       | market development strategies  | diversification strategies    |
        |---------------------------------------------------------------------------|
 		 |          |		existing                   |           new                 |
        |---------------------------------------------------------------------------|

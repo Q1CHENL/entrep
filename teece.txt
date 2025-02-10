@@ -25,7 +25,7 @@ B. Complementary Assets
   3. Cospecialized – Two-way dependency; both the innovation and the complementary asset rely on each other.  
 
 C. Dominant Design Paradigm  
-- Industries go through phases:  
+- Industries go through phases (life cycle phases):  
   - Pre-paradigmatic phase: Competing designs exist; uncertainty about which will succeed.  
   - Paradigmatic phase: A dominant design emerges; firms compete on price and efficiency rather than design.  
 - If an innovator fails to align with the dominant design, it may lose out to followers.  
@@ -69,3 +69,13 @@ C. Small vs. Large Firms
 - Innovators do not automatically profit from their inventions.  
 - Success depends on securing intellectual property protection, controlling complementary assets, and aligning with industry standards.  
 - Firms should carefully balance integration vs. contracting strategies to maximize their share of innovation profits.  
+
+For a Commercialization Strategy:
+   Should I go on a product Market?
+or Should I license it?
+or should I sell it?
+or should I give up?
+Pick one and build arguments around it:
+- Appropriability Regime: strong or weak? patentable? are we in a good position?
+- Complementary assets: manufacturing? what should we do? build facilities? find partners? give license to others for producing? sell patent? why?
+- Life cycle phase (Dominant design Paradigm): what stage are we in? what is the dominant design? Do we have agreement with it?

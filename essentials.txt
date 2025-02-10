@@ -1,0 +1,56 @@
+1. Five Forces of competitive environment (atractiveness) of a business:
+- Industry Rivalry
+- Threat of New Entrants 
+- Threat of Substitutes 
+- Bargaining Power of Buyers 
+- Bargaining Power of Suppliers
+
+2. Four Principles of Effectuation:
+- Affordable Loss, Not Expected Returns
+- Strategic Alliances, Not Competitive Analysis competition.
+- Exploitation of Contingencies, Not Preexisting Knowledge.
+- Controlling the Future, Not Predicting It
+
+3. Venture growth strategies:
+- Market penetration strategies
+- Market development strategies
+- Product development strategies
+- Diversification strategies
+
+4. Business Model
+- Value Proposition
+- Customer Segments
+- Channels
+- Customer Relationships
+- Revenue Streams
+- Key Resources 
+- Key Activities
+- Key Partnerships
+- Cost Structure
+
+5. Network effects: Direct network effects and Indirect network effects
+   Network effects explains:
+- source of first-mover advantage
+  - cost advantages
+  - less competitive rivalry
+  - the opppotunity to secure important suppliers and distributor Channels
+  - A better position to satisfy customers
+  - The opppotunity to gain expertise through participation 
+- the existence of winner-takes-all-markets
+- the evolution and success of companies like Skype or Facebook
+
+6. Environment characteristics more important for I(C)T startups:
+- Weak appropriability regimes
+- Network effects: winner-takes-all-markets, high likelihood of first-mover advantage
+- Staff widely available
+- Coding is cheap
+- High competition
+- Easy to enter
+- Established Infrastructure (cloud, open source)
+
+7. General Insights from Greiner's Model:
+- Ventures grow in steps: evolution, revolution, evolution, revolution, ...
+- Management style changes with each step
+- Risks occur at each step
+- Top management change can happen in each step
+- Whatever solution you put in, will be the cause of the next problem at some time
