@@ -1,15 +1,15 @@
  1. If you are not failing sometimes, you are not taking enough risks. -- Tina Seelig
  
  2. Business Model:
-    - value proposition
     - customer segment
+    - value proposition
     - customer relationship
+    - channels
+    - revenue stream
     - key activities
     - key resources
-    - channel
     - partnership
     - cost structure
-    - revenue stream
  
  3. value proposition
     customer profile (observed):
@@ -30,18 +30,18 @@
 
  4. Lisa Lambert on corporate venture capital (CVC) as smart money: 
     bring companies executives together (relationship, endorsement), 
-    let them pick each other reduces sales cycle
+    let them pick each other, reduces sales cycle
  
  5. A conversation with Steve Ballmer:
     balance culture of <short term outcome vs patience for tech and customer>, like ying and yang
     even for small startups
  
  6. A presentation by Larry Page
-    Entrep. culture: small teams like a small startup, but gets more corporate later
+    Entrep. culture: small teams like small startups, but get more corporate later
     works innovatively quick without big investment
  
  7. Tom Conrad: Success is not about you
-    to get out of struggle -> be humble: hire people that are jerks
+    to get out of struggle -> be humble: hire people that are not jerks
     get constant inspiration -> people skills
  
  8. Bill Sahlmann on the value of experience
@@ -58,17 +58,17 @@
 10. Jeff Church on 'Taking the Shot'
     Did not take enough business risks is a regret of many people
     avoid to be mediocre
-    taking the shot needs people skills to communicate
     be humble, get to the people if needed
 
 11. Greg Waldorf on Passion Datei
-    Find out what you are passionate about care about and work on it
+    Find out what you are passionate about, care about and work on it
     -> How could I be involed with something that is less meaningful in people's lives once 
        I've done this?
 
 12. Mohammed Yunus on Social Business
     Charity: you give the money, it does not go back
     Social business: it can expand and grow, sky is the limit
+    One dollar has inifite life
 
    
 
