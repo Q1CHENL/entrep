@@ -79,3 +79,5 @@ Pick one and build arguments around it:
 - Appropriability Regime: strong or weak? patentable? are we in a good position?
 - Complementary assets: manufacturing? what should we do? build facilities? find partners? give license to others for producing? sell patent? why?
 - Life cycle phase (Dominant design Paradigm): what stage are we in? what is the dominant design? Do we have agreement with it?
+                                               Pre-paradigmatic phase or paradigmatic phase?
+

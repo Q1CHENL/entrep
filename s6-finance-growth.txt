@@ -15,8 +15,20 @@ Session 6: Finance & Growth
 4. Supporting from government with or without some obligations.
 ------equity------
 5. Crowd funding: promise product, pre-order, middle age men (games, smart watch, tesla, social space donation)
+   - Benefits:  
+     - Validates your product with market interest.  
+     - Builds a community of early supporters.  
+   - Downsides:  
+     - Uncertain funding outcomes and potential campaign costs.  
+     - May require extensive marketing efforts to succeed.
 6. Fund raising: get money from venture capitalists(pooled of money from different sources, invest a large amount
    make money by selling shares, not profits), angel investors (smaller amount), growth expections
+   - Benefits:  
+     - Access to significant funds and strategic expertise.  
+     - Networking and mentorship opportunities.  
+   - Downsides:  
+     - Equity dilution and potential loss of control.  
+     - High growth expectations can pressure business decisions.  
 ------------------
 7. Foundations support
 --------IPO---------
@@ -24,6 +36,12 @@ Session 6: Finance & Growth
 -------debt--------
 9. Debt: bank, substantial a amount of money, may leverage personal relationship, local bank has local connections 
    (interet payment, collateral)
+   - Benefits:  
+     - Retain full control.  
+     - Predictable repayments can aid planning.  
+   - Downsides:  
+     - Fixed obligations regardless of revenue.  
+     - Interest and potential collateral requirements increase risk.  
 ----large firms----
 10. collab, investment
 
