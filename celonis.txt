@@ -9,7 +9,7 @@ Most companies don't have complete visibility of their owne processes.
 (16%)
 
 Process Mining:
-Real-world activities -> system support-> process data(event logs) -> process insights
+Real-world activities -> system support -> process data (event logs) -> process insights
 
 Def. Process Mining is a data analytics technology to reconstruct, analyze, and improve business 
      processes based on log data from transactional IT systems. Process Mining bridges the gap 
@@ -46,4 +46,16 @@ Question 2: Consultant Advice for Celonis
 - Address Competitive Pressures: Continuously
   innovate, expand platform capabilities, and leverage strategic partnerships (e.g., with major ERP
   vendors) to stay ahead in the market.
+
+  Summarization of answer from Moritz:
+  1. High fixed costs from expensive employee events and prime offices help attract top talent in Germany, 
+     despite being costly.  
+  2. Relying on multiple financing rounds to fuel growth is common in startups but long-term success should 
+     ideally come from self-financing rather than constant external funding.  
+  3. Creating a separate consulting subsidiary could leverage their deep product knowledge, improve direct 
+     customer contact, and drive further product development.  
+  4. International expansion is recommended since their tech product is globally relevant and easier to scale.  
+  5. Economic downturns are unlikely to hurt revenues because their product, which increases efficiency and 
+     saves costs, becomes even more essential in a crisis.
+
 

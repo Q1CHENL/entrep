@@ -48,7 +48,7 @@ protection mechanisms
   -> copyright: software, entertainment, publishings
 
 - informal: secrecy, complexity of design, accesses, ...
-  -> secrecy: food
+  -> secrecy: food, tires
 
 A clever idea is not enough, need:
 
@@ -79,7 +79,7 @@ Reason why it is or isn't a IT startup?
 Tell me what you opinion which it is and why?
 4 points for 4 things
 
-Porter's Five Forces Framework is a method of analysing the competitive environment(atractiveness) of a business:
+Porter's Five Forces Framework is a method of analysing the competitive environment (atractiveness) of a business:
 
 					             Bargaining Power of Suppliers
 					                          |

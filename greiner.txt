@@ -32,10 +32,10 @@ Greiner - Evolution and revolution as orgnizations grow
    For each phase, managers are limited in what they can do in growth is to occur
 
    Phase 1: Creativity
-    	    Emphasis is product and market. Communication is frequent and informal. Long hours of work and mosdest salaries.
-    	    Decisions and motivitions are sensitive to market and customers. As grows, those become the problems, crisis of
-    	    leadership occurs. Temparement of founders can be the problem. Formal communication, additional capital and a
-    	    strong business manager is needed.
+    	      Emphasis is product and market. Communication is frequent and informal. Long hours of work and modest salaries.
+    	      Decisions and motivitions are sensitive to market and customers. As grows, those become the problems, crisis of
+    	      leadership occurs. Temparement of founders can be the problem. Formal communication, additional capital and a
+    	      strong business manager is needed.
     	    
    Phase 2: Direction
             functional and orgnizational structrue, accounting systems, formal communications, hierarchy of titles and positions

@@ -18,7 +18,6 @@ Business model: ratinale of how a firm creates, delivers and captures (economic,
 				
 Basically a concise overview of how you make money
 				
-				
 Start with value proposition: - unique statement about the value the company consistently delivers to its customer
 							  - a promise to customer
 							  - a limitet set of attributes and benefits: differentiating, relevant and understandable
